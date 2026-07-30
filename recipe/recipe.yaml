@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "3.3.10"
+  version: "3.3.13"
 
 package:
   name: pyrobotiqgripper
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pyrobotiqgripper/pyrobotiqgripper-${{ version }}.tar.gz
-  sha256: 450fa129e507ba4daff2d153ead32f48006f974d1a25f18cf4009e8c121fcca6
+  sha256: 329422141a18becddd1688af1146ab14abc5ddd8e3a3889b67b4b7bdc0adb507
 
 build:
   number: 0
